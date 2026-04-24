@@ -11,6 +11,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shyamannet&theme=tokyo-night)
 
+## 📅 Contribution Calendar
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/shyamannet)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamannet&layout=compact&theme=tokyonight)
 
 ## 🚀 Skills
