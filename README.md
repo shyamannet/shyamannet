@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shyam
 
-💻 Full Stack Developer  
-⚡ Working with Vue.js, Node.js, MongoDB  
+💻 AI System Engineer 
+⚡ Working with Vue.js, Node.js(Fastify), MongoDB, PostgreSQL,Javasript, HTML, CSS also using AI tool as cursor for Development.
 
 ## 📊 GitHub Stats
 
@@ -20,7 +20,10 @@
 ## 🚀 Skills
 - JavaScript
 - Vue.js
-- Node.js
+- Node.js(Fastify)
+- HTML
+- CSS
+- PostgreSQL
 - MongoDB
 - REST APIs
 
